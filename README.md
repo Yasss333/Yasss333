@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Fitness Dev 💪</h3>
+<h3 align="center">Full Stack Developer | GEN AI | Fitness Dev 💪</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJxd2pvbWJhbzN2aHRpOTV6amRiMThwa2RoZnNvdWNyNDlwN21ybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif">
 
@@ -8,8 +8,9 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Creating+scalable+products...;Gym+rat+%7C+Code+warrior+%7C+MERN+Dev;Always+learning+DSA+%2B+Tech;Dream+Role%3A+Full+Stack+SDE+%2F+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%7C+JavaScript+%26+TypeScript;Building+scalable+products+with+MERN+Stack;DSA+%7C+System+Design+%7C+Docker+%7C+DevOps;Aspiring+SDE+%2F+AI+Engineer+%7C+VESIT+ECS+Student" alt="Typing SVG" />
 </p>
+
 
 ---
 
