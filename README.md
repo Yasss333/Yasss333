@@ -77,7 +77,7 @@
 
 ### ⚡ Fun Fact
 
-> “Bas products banane hai, scalable aur impactful. Execution > Excuses.”
+> “Coding is FUN”
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
