@@ -3,18 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJxd2pvbWJhbzN2aHRpOTV6amRiMThwa2RoZnNvdWNyNDlwN21ybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif">
 
-
-
-
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%7C+JavaScript+%26+TypeScript;Building+scalable+products+with+MERN+Stack;DSA+%7C+System+Design+%7C+Docker+%7C+DevOps;Aspiring+SDE+%2F+AI+Engineer+%7C+VESIT+ECS+Student" alt="Typing SVG" />
 </p>
-
-
----
-
-
 
 ---
 
@@ -22,7 +15,7 @@
 
 - 🎓 3rd Year Electronics & Computer Science Student at **VESIT**
 - 🚀 Currently building full-stack projects with the **MERN stack**
-- 🔁 Learning **DSA** alongside web dev .
+- 🔁 Learning **DSA** alongside web dev
 - 💡 Goal: Build **scalable tech products** that make real impact
 - 🧠 Exploring AI, Docker & System Design
 - 💪 When not coding, I’m lifting in the gym or leveling up mentally
@@ -61,27 +54,29 @@
 
 ### 🧠 Currently Learning
 
-- 🚀 TypeScript & Docker in-depth
-- 📊 Data Structures & Algorithms
-- 🔬 Exploring AI Tools & Projects
-- 🛠 Building mini-projects in MERN stack
+- 🚀 TypeScript & Docker in-depth  
+- 📊 Data Structures & Algorithms  
+- 🔬 Exploring AI Tools & Projects  
+- 🛠 Building mini-projects in MERN stack  
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yash-mandhare-751166286)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mandhare-751166286)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yash.m.code@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
 
-> “Coding is FUN”
+> “JavaScript is not funny. It's a prank language.”
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasss333&label=Profile%20views&color=0e75b6&style=flat" alt="Yasss333" />
